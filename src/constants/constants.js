@@ -1,0 +1,1 @@
+export const musicListBaseUrl = "https://retrowave.ru"
